@@ -6,7 +6,8 @@ FlipCam is a video recorder using OpenCV. FlipCam supports several flip modes. Y
 - You can record by pressing the `space` key. 
 - When you press the `a` key, the image changes to left/right inversion mode. 
 - Pressing the `s` key changes to image color inversion mode. 
-- Pressing `d` changes to basic mode. When recording, a red circle appears in the upper left corner of the screen. 
+- Pressing `d` changes to basic mode.
+- When recording, a red circle appears in the upper left corner of the screen. 
 - You can exit the program by pressing the `ESC` key.
 
 ## FlipCam demonstration video
